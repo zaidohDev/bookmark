@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "driver": "PostgreSQL",
+      "name": "bookmark_freecodecamp",
+      "database": "nest",
+      "username": "123",
+      "connectString": "postgresql://postgres:123@localhost:5434/nest?schema=public"
+    }
+  ]
+}
